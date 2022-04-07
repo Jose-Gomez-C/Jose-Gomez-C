@@ -1,19 +1,10 @@
 <h1 align="center">Jose Luis Gomez Camacho GitHub <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
-<p  align ="left"> student of software
-engineering at the Escuela Colombiana De
-Ingeniería Julio Gravito with great analytical
-skills for the design and implementation of
-solutions, as well as for problem solving;
-ability that I have been developing
-throughout my career by participating in
-academic support and administrative
-assistance. Throughout the career through
-participation in academic support and
-administrative assistance.
-Knowledge in agile methodologies,
-object oriented programming, design and
-implementation of web pages, databases,
-and APPs.
+<p  align ="left"> Software Engineer from the Universidad Escuela Colombiana De Ingeniería Julio Gravito with great analytical skills for the design and implementation of solutions, as well as for problem solving, ability that I developed throughout my career through participation in academic support and business practice.
+	
+Knowledge in agile methodologies, 
+object-oriented programming, design and implementation of web pages, databases and APP's.
+databases and APP's
+
 </p>
 
 * 🔭 I’m currently studying on [Julio Garavito Colombian School of Engineering](https://www.escuelaing.edu.co/es/)
