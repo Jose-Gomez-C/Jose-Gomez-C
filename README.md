@@ -7,7 +7,7 @@ databases and APP's
 
 </p>
 
-* 🔭 I’m currently studying on [Julio Garavito Colombian School of Engineering](https://www.escuelaing.edu.co/es/)
+* 🔭 software engineer of the  [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/)
 
 
 
